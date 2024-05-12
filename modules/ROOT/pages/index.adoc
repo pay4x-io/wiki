@@ -1,3 +1,5 @@
-= Test
+= Welcome to Pay4x Wiki
 
-Some test text
+Here is some basic text.
+
+Here is https://google.com[link to Google]
